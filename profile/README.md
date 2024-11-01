@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/MAGA-Make_America_Great_Again-red.svg) ![](https://img.shields.io/badge/VOTE-TRUMP_2024-red.svg)
+![MAGA](https://img.shields.io/badge/MAGA-Make_America_Great_Again-red.svg) ![TRUMP](https://img.shields.io/badge/VOTE-TRUMP_2024-red.svg) ![Duck1776-ORG Members](https://img.shields.io/endpoint?url=https://api.github.com/orgs/Duck1776-ORG/members&label=Members&color=blue)
 # Duck1776-ORG
 
 Welcome to Duck1776-ORG, a hub for innovative open-source projects focused on enhancing digital communication and content creation.
