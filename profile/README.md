@@ -32,9 +32,3 @@ We welcome contributions from developers, designers, and enthusiasts who share o
 4. Commit your changes
 5. Push to the branch
 6. Open a Pull Request
-
-## Contact Us
-
-While our organization doesn't have public members listed, we're always open to collaboration and feedback. Feel free to reach out through GitHub issues in the respective project repositories.
-
-Thank you for your interest in Duck1776-ORG. Together, let's push the boundaries of what's possible in digital communication and content creation!
